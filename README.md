@@ -1,4 +1,1 @@
-
-# Alx First course 
-### alx-pre_course
-training on the use of Git
+# alx-pre_course
