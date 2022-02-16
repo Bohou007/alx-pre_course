@@ -1,1 +1,3 @@
-# alx-pre_course 0x01-git
+# Alx First course 
+### alx-pre_course
+training on the use of Git
